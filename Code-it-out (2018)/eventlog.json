@@ -1,0 +1,23 @@
+{
+    "name" : "Code-it-out",
+    "seriesType": false,
+    "type" : "Competition",
+    "date" : "26-07-2018",
+    "start-time" : "4:30 PM",
+    "end-time" : "6:40 PM",
+    "in-charge" : {
+        "publicity" : ["Kevin","Joyce"],
+        "organizers" : ["Jaffrey"],
+        "coordinators" : ["Glady", "Laxmi", "Janhavi"]
+    },
+    "n-attendees" : 19,
+    "attendees" : [""],
+    "poster-link" : "",
+    "photos-links" : [""],
+    "description" : [
+        "Competition for SE COMPS started at 4:30 PM and ended at 6:00 PM.",
+        "Competition for SE IT started at 5:10 PM and ended at 6:40 PM.",
+        "4 problems were to be solved in a 1hr 30 min timeframe",
+        ""
+    ]
+}
